@@ -4,6 +4,6 @@ An app that allows authorized users to text a city and receive a response lettin
 
 ## Built With
 
-Node.js
-Twilio
-OpenWeatherMap API
+*Node.js
+*Twilio
+*OpenWeatherMap API
